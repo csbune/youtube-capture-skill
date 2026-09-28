@@ -27,6 +27,9 @@ Inside Claude Code, from the vault root:
 
 `#thinking` = ideas to reflect on · `#building` = something to do or build.
 
+**Antigravity / Codex:** open this folder and say "run the youtube-capture skill on <url> #thinking".
+The skill is also exposed at `.agents/skills/`, and `AGENTS.md` points agents to it.
+
 The note lands in `inbox/resources/youtube/YYMMDD-slug.md`, with the full transcript beside it in `_transcripts/`.
 
 ## Layout
