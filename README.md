@@ -9,8 +9,8 @@ wrong timestamps, and skipped sections all fail the check.
 Requires [Claude Code](https://claude.com/claude-code), Python 3.10+, and [uv](https://docs.astral.sh/uv/).
 
 ```bash
-git clone https://github.com/<OWNER>/youtube-capture.git
-cd youtube-capture
+git clone https://github.com/csbune/youtube-capture-skill.git
+cd youtube-capture-skill
 claude
 ```
 
