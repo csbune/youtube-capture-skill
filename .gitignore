@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+uv.lock
+inbox/engine/queue/*.url
+inbox/engine/work/*
+!inbox/engine/work/.gitkeep
+.DS_Store
